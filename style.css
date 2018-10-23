@@ -1,0 +1,6 @@
+.tile {
+   float: left;
+   position: relative;
+   width: 20%;
+   padding-bottom: 20%;
+   background-color: #666;
